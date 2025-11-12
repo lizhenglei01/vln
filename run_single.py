@@ -46,7 +46,7 @@ def main():
         type=str,
         # required=True,
         help="location of model weights",
-    default = "model_zoo/llama-vid-7b-full-224-video-fps-1-grid-2-panda-encoder-2025-10-10-all-data",  # 默认模型路径
+    default = "/home/lzl/model_zoo/llama-vid-7b-full-224-video-fps-1-grid-2-panda-encoder-2025-10-10-all-data",  # 默认模型路径
 
     )
 
